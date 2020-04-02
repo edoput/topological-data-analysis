@@ -1,4 +1,4 @@
-from representative import Representative
+from .representative import Representative
 
 class Cocycles:
     """Wrapper for co-cycles computed by ripser.

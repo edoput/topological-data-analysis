@@ -1,3 +1,4 @@
+from .cocycle import Cocycles
 from .cohomology import CoHomology
 from .barcode import Barcode
 

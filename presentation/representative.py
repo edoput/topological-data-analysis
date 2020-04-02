@@ -46,7 +46,7 @@ class Representative:
         we can filter it out of the representative.
         """
         
-        def close_enough(vertices, t=np.infinity):
+        def close_enough(vertices, t=np.infty):
             """
             Returns true if the distance in the set of
             vertices is always less than t
